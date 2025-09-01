@@ -1,0 +1,24 @@
+Negative Log-Likelihood: 1.138967
+Brier Score: 0.108265
+Expected Calibration Error: 0.053620
+Maximum Calibration Error: 0.287763
+Ranked Probability Score: 0.330354
+Calibration Slope: 0.041587
+Calibration Intercept: 0.635564
+AUROC: 0.514379
+AUPRC: 0.674425
+Pearson: 0.006508
+Spearman: 0.023527
+Kendall Tau: 0.019229
+Negative Log-Likelihood (Calibrated): 1.134459
+Brier Score (Calibrated): 0.108402
+Expected Calibration Error (Calibrated): 0.057640
+Maximum Calibration Error (Calibrated): 0.602411
+Ranked Probability Score (Calibrated): 0.351855
+Calibration Slope (Calibrated): 0.058956
+Calibration Intercept (Calibrated): 0.627128
+AUROC (Calibrated): 0.514630
+AUPRC (Calibrated): 0.674460
+Pearson (Calibrated): 0.008742
+Spearman (Calibrated): 0.023938
+Kendall Tau (Calibrated): 0.019565
