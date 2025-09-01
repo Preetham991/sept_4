@@ -1,0 +1,12 @@
+Negative Log-Likelihood: 1.138967
+Brier Score: 0.108265
+Expected Calibration Error: 0.053620
+Maximum Calibration Error: 0.287763
+Ranked Probability Score: 0.330354
+Calibration Slope: 0.041587
+Calibration Intercept: 0.635564
+AUROC: 0.514379
+AUPRC: 0.674425
+Pearson Correlation: 0.006508
+Spearman Correlation: 0.023527
+Kendall Tau Correlation: 0.019229

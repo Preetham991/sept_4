@@ -1,0 +1,18 @@
+ECE Before: 0.05362
+MCE Before: 0.28776
+NLL Before: 1.13897
+Brier Score Before: 0.10826
+AUROC Before: 0.51438
+AUPRC Before: 0.67170
+Pearson Correlation Before: 0.00651
+Spearman Correlation Before: 0.02353
+Kendall Tau Before: 0.01923
+ECE After: 0.05764
+MCE After: 0.60241
+NLL After: 1.13446
+Brier Score After: 0.10840
+AUROC After: 0.51463
+AUPRC After: 0.67173
+Pearson Correlation After: 0.00874
+Spearman Correlation After: 0.02394
+Kendall Tau After: 0.01956
